@@ -113,7 +113,7 @@ Log a static string, without any context or `printf`-style templating:
 #### How to use logger? 
 The logger format will be written like this
 ``` console
-{"level":"ERROR","time":"2020-10-31T05:32:29.580+0700","caller":github.com/Lionparcel/horde/src/repository/account.go:66","message":"AccountRepository-GetByEmail Error record not found"}
+{"level":"ERROR","time":"2020-10-31T05:32:29.580+0700","caller":github.com/base_skeleton_go/src/repository/account.go:66","message":"AccountRepository-GetByEmail Error record not found"}
 ```
 
 - Error Log With Format
